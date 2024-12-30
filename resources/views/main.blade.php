@@ -227,7 +227,7 @@
                                 <input type="text" name="position" id="position" class="form-control" required>
                             </div>
                             <div class="mb-3">
-                                <label for="departement" class="form-label">Alamat</label>
+                                <label for="departement" class="form-label">Departemen</label>
                                 <input type="text" name="departement" id="departement" class="form-control" required>
                             </div>
                             <div class="mb-3">
